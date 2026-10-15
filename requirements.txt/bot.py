@@ -19,7 +19,7 @@ from aiogram.types import (
 )
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = ""  # Вставь токен от @BotFather. Не отправляй его никому.
+BOT_TOKEN = "8714026977:AAFsZBsu-fsNquU1trNXtn4IiJiGTqZL39Q"  # Вставь токен от @BotFather. Не отправляй его никому.
 ADMIN_ID = 6562303389
 
 BASE_DIR = Path(__file__).resolve().parent
